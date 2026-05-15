@@ -92,8 +92,8 @@ dependencies {
     implementation("com.google.gradle:osdetector-gradle-plugin:1.7.3")
     // 360插件化
     // https://github.com/Qihoo360/RePlugin/blob/dev/README_CN.md
-    implementation("com.qihoo360.replugin:replugin-host-gradle:-36db020bf1-1")
-    implementation("com.qihoo360.replugin:replugin-plugin-gradle:-36db020bf1-1")
+    implementation("com.qihoo360.replugin:replugin-host-gradle:3.0.0")
+    implementation("com.qihoo360.replugin:replugin-plugin-gradle:3.0.0")
     // 腾讯Shadow插件化
     // https://github.com/Tencent/Shadow
     implementation("com.tencent.shadow.plugin:com.tencent.shadow.plugin.gradle.plugin:local-dc5bafb2-SNAPSHOT")
